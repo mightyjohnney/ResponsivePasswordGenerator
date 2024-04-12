@@ -16,10 +16,10 @@
             System.out.print("Include uppercase letters? (true/false): ");
             boolean includeUpper = scanner.nextBoolean();
 
-            System.out.print("Include numbers? (true/false): ");
+            System.out.print("Include the numbers? (true/false): ");
             boolean includeNumbers = scanner.nextBoolean();
 
-            System.out.print("Include symbols? (true/false): ");
+            System.out.print("Include the symbols? (true/false): ");
             boolean includeSymbols = scanner.nextBoolean();
 
             System.out.println("Generated Password: " + generatePassword(length, includeUpper, includeNumbers, includeSymbols));
