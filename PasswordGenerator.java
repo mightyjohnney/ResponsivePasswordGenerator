@@ -4,7 +4,7 @@
         private static final String LOWER = "abcdefghijklmnopqrstuvwxyz";
         private static final String UPPER = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         private static final String DIGITS = "0123456789";
-        private static final String SYMBOLS = "!@#$%^&*()_+:";
+        private static final String SYMBOLS = "!@#$%^&*()_+:/";
 
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
