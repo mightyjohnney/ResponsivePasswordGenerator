@@ -8,7 +8,7 @@
 
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Welcome to the Password Generator!");
+            System.out.println("Welcome to the Password Generator. Let's see what you have got!");
 
             System.out.print("Enter desired password length: ");
             int length = scanner.nextInt();
